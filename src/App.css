@@ -10,6 +10,7 @@ body {
   /* justify-content: center; */
   max-width: 100vw;
   overflow-x: hidden;
+  background-color: rgb(240, 238, 238);
 }
 .task-tracker-container {
   display: flex;
